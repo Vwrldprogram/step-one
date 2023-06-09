@@ -18,19 +18,19 @@
 
      <form>
 
-       <input type="text"  id="username" placeholder="e.g @tenny_black"required>
+       <input type="text"  id="username" placeholder="e.g @tenny_black"required/>
 
      <p> Please put in your tiktok user name or your tiktok profile link.</p>
 
-       <input type="text" for="name" id="name" placeholder="e.g TOBI MAGUIRE"required>
+       <input type="text" for="name" id="name" placeholder="e.g TOBI MAGUIRE"required/>
 
        place in your name as it appears at the top of your tiktok profile.
 
-       <input type="email" id="email" placeholder="e.g example@gmail.com"required>
+       <input type="email" id="email" placeholder="e.g example@gmail.com"required/>
 
        Put your e-mail address so we can notify and give you feedback on our promotion
 
-       <input type="text" id="country" placeholder="Nigeria">
+       <input type="text" id="country" placeholder="Nigeria"/>
 
        Optional <br>
 
